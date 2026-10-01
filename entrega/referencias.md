@@ -44,12 +44,5 @@ _Taller 6 - Checklist de Cumplimiento Normativo (cliente: Asul)_
 
 ---
 
-## 📌 Recomendaciones
-
-- Usa formato APA o IEEE para citar.
-- No incluyas fuentes como Wikipedia si hay mejores alternativas.
-- Si usas inteligencia artificial para redactar o investigar, cítalo como "Fuente asistida por IA: ChatGPT, julio 2025".
-
----
 
 _Este archivo forma parte de la entrega académica del curso AREM - Universidad de La Sabana._
